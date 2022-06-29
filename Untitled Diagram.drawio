@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2022-06-29T07:17:16.238Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="c9HIdgL6BuBN7XBHOmTm" version="20.0.3" type="github"><diagram id="s4kX3leJWYWsDBF16e92" name="Page-1">3VlZc+I4EP41qkoelvJ9PNpgZg9Sk6qkZnfnTcEKeNZYLllJYH79tmRhLGQImQphdx5mkNqt7pbUXx8Kcser9SeG6+UNzUmJHCtfI3eCHMd2PB9+BGXTUoIobAkLVuSKaUe4K74TRbQU9anISaMxckpLXtQ6cU6risy5RsOM0Red7ZGWutYaL4hBuJvj0qT+WeR82VIjJ9zRfyXFYrnVbAdx+2WFt8xqJ80S5/SlR3Iz5I4ZpbwdrdZjUorD255Lu2564GtnGCMVP2XBH/mD9Zivvn6af6XR+Ps/CZ5av0TKNr7ZbpjksH81pYwv6YJWuMx21JTRpyonQqoFsx3PjNIaiDYQvxHON+oy8ROnQFryVam+gsFs85dYP/K307+VODmZrLXZRs1aW4WBB49AkRr6xObkyL63roTZgvAjfE53UeDhhK4I2APrGCkxL551O7BytUXHt7sNGKgLecPlKLnPuHxSmj7XhIFiWs3oImlq4fCZj6IIAaqyGMUTlDgoC1FqozRFmYfSCCUTLG8MZQGKA5TGYpC6KPZRNkXpGEVjsTaRX4U0KRB4EksxRyA2k8th4MvlCYotlIHeDKWhXDWVy4HHFfxC9QTFY0kJ5SofpVMxhkHiocgTdoKQSCqNwYCopItbRuekaSi7wRVAi41yMocAMOt9uaK9Qxi1N311fW04su6mL8uCk7saS694gVilu6Q6acI4WR93LtMZ1IItzjf69GUXNTxX0Zb9iOFZ53Ify/CfS6D9HVHrnIja+JKodYxTn5l+vQOpE5SwlfSBwWghRjUrnjEnIlkVcM7wewPe6gR4JXxWMt9xVlQL5ICB1m996R2blARfByBlahTwhwDSxgEVQwIB3ig2g8aePssE6DasRFsztxer6PHFoer6o9DX0eqacHXjaOSbgI3OhVf/Z4OreyJcvUvC1TVOvefhMvtlKn1BikvcXnbtkmcPK1Ei8h4kRuBJbBM9nx++iaQtNjenLO/n86tucr+pBfypPhdgl2aRHFD1Oy2qW/gnZNXi91qc9FIWvI51Lwb4QXrExdEWBHuZcQhr9kBqDM6FtPBnQ5p3ItKCSyLNM04dPzScYYmHfgJJcUP0hHdvJLZiVZdkBQfVDOTAt+U3+B9i+o4Sy4Esb6Eojmw5gDrXkjXsRBbOZlULxWyiqloVHzqKL5bHmSyKMxSZiHwFg7qnvQci43Ck5z83MDEJafIDMRmYZZO1V2qQNSdV3rzqLTdFSRpOK/Ll877f7LuG/YMqZkXDdcptiauZ/YUaGo/qnznva4DzZgPcFPP58t2suMMCmBPyXMyJlDxwB68YJDfyY/b0tQsxrzuAgGkykbjvBqeEhA7ToeyBrdNaXzNIgCIX+NUGB3Zn2BtJYfFQUFPChqzzRM+uem1LmiAfDZKkM6qtSJJ8V5RcqcJiW+m0HDc0Lx43rzBNSEk4MZguHfh8Xw97/kCX3tG0Lv1scc82+8X/eTESn1iM2Afu6mOqkdg8doEWwEkHkkxW/fL9S1BSiSj5OtbWAgfe3YYe6Xq9AsSTJJSRxAZK0Yf8aKAr0F67tJbg6rptChS2Bir9j4aXZ48cHWCeNVDrR+FQX30+hLmXAFTvkduyOoJ85h75kCmOP3XL2S1hBRwBYej9379PfQC/aMdgmy/gB0AqIHneFmIfuGZvb4J3h/tBgfoDu97uZ7ICUdVIipJYvearWGRJC8wOo8v3XYFh2g3MU6nYl+/43gkVgGH+0VLgAPd/tCaInb1eyPcGeqFoIGLZ/ttDFkx3f/KT33p/OHWzfwE=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-29T07:19:38.184Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="lHAlWT_qIjVaaDQAHBml" version="20.0.3" type="github">
+  <diagram id="s4kX3leJWYWsDBF16e92" name="Page-1">
+    <mxGraphModel dx="1183" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Kdb0fdmZGcZo8CzkAaF0-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Kdb0fdmZGcZo8CzkAaF0-1" target="Kdb0fdmZGcZo8CzkAaF0-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kdb0fdmZGcZo8CzkAaF0-1" value="OperationLogAspect切面类中around方法，首先根据来源获取操作日志处理器logProcessorManager.decideLogProcessor(operationLog.source())" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="20" width="430" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Kdb0fdmZGcZo8CzkAaF0-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Kdb0fdmZGcZo8CzkAaF0-2" target="Kdb0fdmZGcZo8CzkAaF0-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kdb0fdmZGcZo8CzkAaF0-2" value="LogProcessorManager类&lt;br&gt;private final Map&amp;lt;String, ILogProcessor&amp;gt; logProcessorManager&lt;br&gt;里面有方法ILogProcessor decideLogProcessor（String source）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="35.75" y="230" width="398.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Kdb0fdmZGcZo8CzkAaF0-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Kdb0fdmZGcZo8CzkAaF0-3" target="Kdb0fdmZGcZo8CzkAaF0-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kdb0fdmZGcZo8CzkAaF0-3" value="ILogProcess接口类，有抽象方法Object recordOperationLog(OperationType operationType, ProceedingJoinPoint point) throws Throwable;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="230" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kdb0fdmZGcZo8CzkAaF0-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Kdb0fdmZGcZo8CzkAaF0-4" target="Kdb0fdmZGcZo8CzkAaF0-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kdb0fdmZGcZo8CzkAaF0-4" value="abstract LogProcessorBase&amp;lt;T&amp;gt; implements ILogProcessor&lt;br&gt;里面有所有需要记录日志的类的实例" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="697.5" y="360" width="235" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kdb0fdmZGcZo8CzkAaF0-6" value="L0LogProcessor extends LogProcessorBase&amp;lt;MilestoneVO&amp;gt;&lt;br&gt;1LogProcessor extends LogProcessorBase&amp;lt;List&amp;lt;PlanL1Vo&amp;gt;&amp;gt;&lt;br&gt;L2LogProcessor extends LogProcessorBase&amp;lt;List&amp;lt;PlanL2Vo&amp;gt;&amp;gt;&lt;br&gt;L3BatchLogProcessor extends LogProcessorBase&amp;lt;List&amp;lt;SampleDeviceBatchVO&amp;gt;&amp;gt;&lt;br&gt;L3PlanLogProcessor extends LogProcessorBase&amp;lt;SampleDevicePlanVO&amp;gt;&lt;br&gt;等等所有需要实现操作日志的类都extendsLogProcessorBase&lt;br&gt;这里面都实现了各自的recordAddOperation(point)，recordModifyOperation(point)，recordDeleteOperation(point)" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="555" y="520" width="520" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Kdb0fdmZGcZo8CzkAaF0-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Kdb0fdmZGcZo8CzkAaF0-9" target="Kdb0fdmZGcZo8CzkAaF0-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kdb0fdmZGcZo8CzkAaF0-9" value="然后再回到切面类OperationLogAspect，执行iLogProcessor.recordOperationLog(operationLog.operationType(), point);" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="41.25" y="400" width="387.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kdb0fdmZGcZo8CzkAaF0-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.001;entryY=0.593;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Kdb0fdmZGcZo8CzkAaF0-11" target="Kdb0fdmZGcZo8CzkAaF0-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kdb0fdmZGcZo8CzkAaF0-11" value="然后到LogProcessorBase&amp;lt;T&amp;gt; implements ILogProcessor&lt;br&gt;执行方法recordOperationLog，&lt;br&gt;根据operationType选择不同的实现类执行对应的recordAddOperation(point)&lt;br&gt;recordModifyOperation(point)&lt;br&gt;recordDeleteOperation(point)" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="92.5" y="540" width="285" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="NWEsTASbKMCYMReNmjwW-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
